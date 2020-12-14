@@ -5,9 +5,9 @@ Fixed Mindset is a dry piece of wood.
 Growth Mindset is being a flexible reed.
 Growth mindset is a way of learning.
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+## This is an <h1> tag
+### This is an <h2> tag
+####### This is an <h6> tag
   
 1. Item 1
 1. Item 2
