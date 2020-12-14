@@ -1,4 +1,3 @@
-# cedar-c-102d9-JS-Notes
 # Lab: 01b - Learning Markdown Work 
 - growth mindset is a persons mental confidence. To have a growth mindset is to be open to new possiblities and being capable to adapt to new and hard environments without giving up. 
 Fixed Mindset is a dry piece of wood.
