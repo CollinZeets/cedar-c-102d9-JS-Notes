@@ -1,4 +1,19 @@
 # cedar-c-102d9-JS-Notes
 Notes for DeltaV 102 Javascript 
+- growth mindset is a persons mental confidence. To have a growth mindset is to be open to new possiblities and being capable to adapt to new and hard environments without giving up. 
+Fixed Mindset is a dry piece of wood.
+Growth Mindset is being a flexible reed.
+Growth mindset is a way of learning.
 
-### this is a h3
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+  
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+   http://github.com - automatic!
+[GitHub](http://github.com)
